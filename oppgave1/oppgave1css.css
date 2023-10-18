@@ -1,0 +1,24 @@
+.sidetittel{
+    border: solid black 2px;
+    max-width: 1000px;
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.innhold {
+    border: solid black 2px;
+    max-width: 1000px;
+    height: 575px;
+    font-size: 25px;
+}
+
+.footer {
+    border: solid black 2px;
+    max-width: 1000px;
+    height: 200px;
+    background-color: lightblue;
+    color: black;
+    font-size: 20px;
+}
