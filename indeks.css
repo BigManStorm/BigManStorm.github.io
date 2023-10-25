@@ -1,0 +1,34 @@
+.main {
+    border: 1px solid black;
+    padding: 3px
+}
+
+.sidetittel {
+    font-size: large;
+    margin: 3px
+}
+
+.innhold {
+    display: flex;
+    padding: 3px;
+}
+
+@media (max-width: 1000px) {
+    .innhold {
+        flex-direction: column;
+    }
+}
+
+.artikkel {
+    border: 1px solid black;
+    margin: 2px;
+}
+
+.footer {
+    margin: 5px;
+    text-align: center;
+}
+
+.main,.sidetittel,.innhold,.footer {
+    border: 1px solid black;
+}
