@@ -8,6 +8,16 @@
     margin: 3px
 }
 
+.nav {
+    margin: 3px;
+}
+
+.nav li {
+    margin: 5px;
+    text-decoration: none;
+    display: inline;
+}
+
 .innhold {
     display: flex;
     padding: 3px;
