@@ -32,6 +32,9 @@
 .artikkel {
     border: 1px solid black;
     margin: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .footer {
