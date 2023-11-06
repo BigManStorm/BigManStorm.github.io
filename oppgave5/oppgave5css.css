@@ -1,0 +1,75 @@
+.main{
+    border: 1px solid black;
+
+}
+
+.topp{
+    border: 1px solid black;
+    margin: 3px;
+    justify-content: space-between;
+    display: flex;
+}
+
+@media (max-width: 800px) {
+    .topp {
+        flex-direction: column;
+    }
+
+}
+
+.innhold{
+    border: 1px solid black;
+    margin: 3px;
+    
+}
+
+.artikkel{
+    display: flex;
+    border: 1px solid white;
+}
+
+@media (max-width: 800px) {
+    .artikkel {
+        flex-direction: column;
+    }
+
+}
+
+.innhold1{
+    border: 1px solid white;
+    margin: 3px;
+}
+
+.innhold2{
+    border: 1px solid white;
+    margin: 3px;
+}
+
+.footer{
+    border: 1px solid black;
+    padding: 3px;
+    display: flex;
+}
+
+@media (max-width: 800px) {
+    .footer {
+        flex-direction: column;
+    }
+}
+
+.footer1{
+    border: 1px solid white;
+    padding: 3px;
+    margin: 3px;
+}
+
+.footer2{
+    border: 1px solid white;
+    margin: 3px;
+}
+
+.footer3{
+    border: 1px solid white;
+    padding: 3px;
+    margin: 3px;
+}
