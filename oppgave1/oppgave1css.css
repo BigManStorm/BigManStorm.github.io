@@ -17,6 +17,7 @@
 @media (max-width: 800px) {
     .innhold {
         flex-direction: column;
+         max-width: fit-content;
     }
 }
 
