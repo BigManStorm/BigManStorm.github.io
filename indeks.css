@@ -23,6 +23,12 @@
     display: inline;
 }
 
+@media (max-width: 800px) {
+    .nav li {
+        display: block;
+    }
+}
+
 .innhold {
     display: flex;
     padding: 3px;
