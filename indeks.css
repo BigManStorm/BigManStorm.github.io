@@ -9,10 +9,15 @@
 }
 
 .nav {
-    margin: 3px;
+    margin: 3px; 
 }
 
-.nav li {
+.logg {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.nav li{
     margin: 5px;
     text-decoration: none;
     display: inline;
@@ -21,16 +26,18 @@
 .innhold {
     display: flex;
     padding: 3px;
+    margin: 3px;
 }
 
 @media (max-width: 800px) {
     .innhold {
         flex-direction: column;
+        max-width: fit-content;
     }
 }
 
 .artikkel {
-    border: 1px solid black;
+    border: 1px solid rgb(255, 255, 255);
     margin: 2px;
     display: flex;
     flex-direction: column;
@@ -38,10 +45,10 @@
 }
 
 .footer {
-    margin: 5px;
+    margin: 3px;
     text-align: center;
 }
 
-.main,.sidetittel,.innhold,.footer {
-    border: 1px solid black;
+.main,.sidetittel,.nav,.innhold,.footer {
+    border: 1px solid rgb(0, 0, 0);
 }
