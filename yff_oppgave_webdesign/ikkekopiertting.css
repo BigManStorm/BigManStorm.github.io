@@ -1,0 +1,120 @@
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.logo{
+    position: relative;
+    left: 642px;
+    top: -1910px;
+    border: 2px solid black;
+    padding: 35px;
+}
+.vl {
+    border-left: 2px solid black;
+    height: 1080px;
+    position: absolute;
+    left: 200px;
+    margin-left: -3px;
+    top: 0;
+  }
+.Search {
+    position: relative;
+    left: 189px;
+    top: -10px;
+    border: 2px solid black;
+    padding: 35px;
+    width: 382px;
+
+}
+ul {
+    position: relative;
+    top: -1900px;
+}
+.Search2 {
+    position: absolute;
+    top: -5px;
+    left: 206px;
+    
+}
+
+.handlevogn {
+    border: 2px solid black;
+    height: 70px;
+    position: relative;
+    left: 941px;
+    top: -83px;
+    width: 150px;
+    text-align: center;
+}
+.favorites {
+    border: 2px solid black;
+    height: 70px;
+    position: relative;
+    left: 1093px;
+    top: -156.5px;
+    width: 150px;
+    text-align: center;
+}
+.veli {
+    border-left: 2px solid black;
+    height: 1080px;
+    top: -200px;
+    position: relative;
+    left: 1245px;
+
+}
+.rabatt {
+    border: 2px solid black;
+    height: 300px;
+    top: -1100px;
+    position: relative;
+    font-size: 40px;
+    left: 250px;
+    width: 922px;
+    text-align: center;
+    background-color: lightgreen;
+    object-fit: contain;
+}
+
+.Logg {
+    border: 2px solid black;
+    top: -1615px;
+    position: relative;
+    height: 72px;
+    left: 789px; 
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Logg li {
+    position: relative;
+    top: 100px;
+    left: 789px;
+    
+}
+
+.Logg a {
+    padding: 20px;
+    color: black;
+}
+
+li a:hover {
+ 
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background-color: green;
+    
+}
+
+.produkter {
+    border: 2px solid black;
+    position: relative;
+    width: 922px;
+    height: 200px;
+    top: -1100px;
+    left: 250px;
+    background-color:  lightgreen;
+}
