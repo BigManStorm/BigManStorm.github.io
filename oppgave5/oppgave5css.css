@@ -8,6 +8,7 @@
     margin: 3px;
     justify-content: space-between;
     display: flex;
+    background-color: lightgreen;
 }
 
 @media (max-width: 800px) {
@@ -15,6 +16,13 @@
         flex-direction: column;
     }
 
+}
+
+.nav{
+    border: 1px solid black;
+    margin: 3px;
+    padding: 3px;
+    background-color: lightgreen;
 }
 
 .innhold{
@@ -35,6 +43,10 @@
 
 }
 
+.artikkelbilde{
+    justify-content: center;
+}
+
 .innhold1{
     border: 1px solid white;
     margin: 3px;
@@ -49,6 +61,7 @@
     border: 1px solid black;
     padding: 3px;
     display: flex;
+    background-color: lightgreen;
 }
 
 @media (max-width: 800px) {
@@ -58,18 +71,18 @@
 }
 
 .footer1{
-    border: 1px solid white;
+    border: 1px solid lightgreen;
     padding: 3px;
     margin: 3px;
 }
 
 .footer2{
-    border: 1px solid white;
+    border: 1px solid lightgreen;
     margin: 3px;
 }
 
 .footer3{
-    border: 1px solid white;
+    border: 1px solid lightgreen;
     padding: 3px;
     margin: 3px;
 }
