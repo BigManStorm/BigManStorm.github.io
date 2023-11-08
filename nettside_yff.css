@@ -1,0 +1,278 @@
+.Clothes {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid rgb(0, 0, 0);
+
+    padding: 0px;
+
+    margin: 0px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 70px;
+
+    position: absolute;
+
+    top: -0px;
+
+  }
+
+ 
+
+.box2 {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 0px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 70px;
+
+    position: absolute;
+
+    top: -20px; left: 210px;
+
+}
+
+.box3 {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 0px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 70px;
+
+    position: absolute;
+
+    top: -20px; left: 410px;
+
+}
+
+.box4 {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 0px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 70px;
+
+    position: absolute;
+
+    top: -20px; left: 610px;
+
+}
+
+.logo {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 25px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 100px;
+
+    position: absolute;
+
+    top: -20px; left: 810px;
+
+    object-fit: contain;
+
+   
+
+}
+
+.box6 {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 0px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 70px;
+
+    position: absolute;
+
+    top: -20px; left: 1062px;
+
+}
+
+.box7 {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 0px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 70px;
+
+    position: absolute;
+
+    top: -20px; left: 1262px;
+
+}
+
+.box8 {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 0px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 70px;
+
+    position: absolute;
+
+    top: -20px; left: 1462px;
+
+}
+
+.user {
+
+    background-color: white;
+
+    width: 200px;
+
+    border: 2px solid black;
+
+    padding: 20px;
+
+    text-align: center;
+
+    line-height: 70px;
+
+    height: 200px;
+
+    position: absolute;
+
+    top: -20px; left: 1640px;
+
+}
+
+ 
+
+.Search {
+
+   
+
+   
+
+   
+
+    position: relative;
+
+    bottom: -111px;  left: 1632px;
+
+}
+
+input {
+
+    height: 25px;
+
+}
+
+.cart {
+    position: relative;
+    left: 1680px; top: 90px;
+}
+
+.favorites {
+    position: relative;
+    left: 1710px; top: 110px;
+}
+
+.slidecontainer {
+    width: 1px;
+}
+
+.sliderValue {
+    position: relative;
+    top: -70px;
+}
+
+.slider {
+    position: relative;
+    top: 400px; left: -2px;
+}
+
+.clothes_line {
+    width: 50%;
+    transform: rotate(270deg);
+    position: relative;
+    right: 700px; top: 176px;
+    border: 1px solid black;
+    resize: none;
+}
+
+#slider {
+    width: 175px;
+}
+
+#chekbox1 {
+    width: 30px; height: 30px;
+}
+
+#hoodies, #t-shirts {
+    position: relative;
+    top: -6px;
+}
+
+.checkbox2 {
+    position: relative;
+    top: 20px;
+}
