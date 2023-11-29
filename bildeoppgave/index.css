@@ -1,0 +1,17 @@
+img{
+    width: 200px;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.image{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    object-fit: contain;
+}
