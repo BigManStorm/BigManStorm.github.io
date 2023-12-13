@@ -1,0 +1,22 @@
+.intro{
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgb(178, 50, 50);
+}
+
+.tittel {
+    text-align: center;
+}
+
+.informasjon {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+.sanger {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 15px;
+}

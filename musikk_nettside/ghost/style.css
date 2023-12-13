@@ -1,0 +1,29 @@
+.intro{
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgb(178, 50, 50);
+}
+
+.tittel {
+    text-align: center;
+}
+
+.bakgrunn {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 15px;
+    text-align: center;
+    background-color: rgb(178, 50, 50);
+}
+
+.innhold{
+    display: flex;
+}
+
+.informasjon {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 70%;
+    background-color: rgb(178, 50, 50);
+    padding: 15px;
+}

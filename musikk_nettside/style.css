@@ -1,0 +1,26 @@
+.intro {
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+
+.logo {
+    height: 20px;
+}
+
+.tittel {
+    text-align: center;
+}
+
+.band {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.innhold {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 50px;
+    border-radius: 15px;
+}
